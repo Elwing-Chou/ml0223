@@ -22,20 +22,7 @@ content = re.sub(r'https?:\/\/.*[\r\n]*', '', content)
 ```
 
 
-## 練習colab(0610)
-
-[w2v](https://colab.research.google.com/drive/1-h_qSJFwfHaJsg2boTX8hIevOSuGqjni?usp=sharing)
-
-[gan](https://colab.research.google.com/drive/14pGRtMZbGZ9wTuVKV2Gof59SP_GEwDUW?usp=sharing)
-
-## 練習colab(0615)
-
-[w2v](https://colab.research.google.com/drive/1lZGTCWwSH-SVJpi_EIhEQqEdfYJWtEZZ?usp=sharing)
-
-[gan](https://colab.research.google.com/drive/1dSHhDukOlkJBwWEzNXBsbxzjQlJHKWcN?usp=sharing)
-
-## 練習colab(1215)
+## 練習colab
 
 [w2v](https://colab.research.google.com/drive/1ViQxHhPZtGRKDO9ELAXEVux7bAgvY0In?usp=sharing)
 
-[gan](https://colab.research.google.com/drive/1s3mhd7Oa1NvqFQS9cP6VrXjp5PI896Yy?usp=sharing)
