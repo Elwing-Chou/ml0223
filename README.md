@@ -26,3 +26,6 @@ content = re.sub(r'https?:\/\/.*[\r\n]*', '', content)
 
 [w2v](https://colab.research.google.com/drive/1ViQxHhPZtGRKDO9ELAXEVux7bAgvY0In?usp=sharing)
 
+## PCA練習colab
+
+[PCA](https://colab.research.google.com/drive/1cMj_BNmupHHiU_UJnt8UEaLEc-EQcfmH?usp=sharing)
